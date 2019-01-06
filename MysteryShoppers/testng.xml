@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+		<listener class-name="com.ingecno.MysteryShoppers.TNglistener.ReportsITestListener"></listener>
+	</listeners>
+	
+	<test name="abc">
+		<classes>
+	<class name="com.ingecno.MysteryShoppers.TNglistener.ReportsTestCases"/>
+	</classes>
+	</test>
+
+  <!-- <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.ingecno.MysteryShoppers.TNglistener.ReportsTestCases"/>
+      <class name="com.ingecno.MysteryShoppers.test.NotCommon.all.ForgotPasswordTestCases"/>
+      <class name="com.ingecno.MysteryShoppers.test.client.ClientTestCases"/>
+      <class name="com.ingecno.MysteryShoppers.taskTestCase.TaskResponses"/>
+      <class name="com.ingecno.MysteryShoppers.test.NotCommon.all.RegistrationTestCases"/>
+      <class name="com.ingecno.MysteryShoppers.test.NotCommon.all.LoginTestCases"/>
+      <class name="com.ingecno.MysteryShoppers.test.NotCommon.all.UserModel"/>
+      <class name="com.ingecno.MysteryShoppers.test.profile.MyProfileTestCases"/>
+      <class name="com.ingecno.MysteryShoppers.LoginPage.LoginpageTestClass"/>
+    </classes>
+  </test> Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="E:/JBK/Selenium Software/Selenium lib/selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="lib" path="E:/JBK/Selenium Software/Selenium lib/selenium-server-standalone-2.52.0.jar" sourcepath="E:/JBK/Selenium Software/Selenium lib/selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="lib" path="E:/JBK/Selenium Software/Selenium lib/testng-6.8.8.jar"/>
+	<classpathentry kind="lib" path="E:/JBK/Jxl_Jar/jxl-2.6.12.1.jar"/>
+	<classpathentry kind="lib" path="E:/JBK/Log4j/log4j-1.2.17.jar" sourcepath="E:/JBK/Log4j/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/JBK/Extend_Report/2.41.2/extentreports-java-2.41.2/extentreports-2.41.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_45"/>
+	<classpathentry kind="lib" path="E:/JBK/Extend_Report/extentreport/jars/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/JBK/Extend_Report/extentreport/jars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="E:/JBK/Extend_Report/extentreport/jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="E:/JBK/Extend_Report/extentreport/jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/JBK/Extend_Report/extentreport/jars/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/JBK/Extend_Report/extentreport/jars/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/JBK/Extend_Report/extentreport/jars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
